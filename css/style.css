@@ -88,6 +88,10 @@ body {
     border-bottom-right-radius: 10px;
 }
 
+.container .main-img img:nth-child(2) {
+    display: none;
+}
+
 /* Media Queries */
 @media screen and (max-width: 999px) {
     .container {
